@@ -1,2 +1,4 @@
-# pingoo
-a ping utility in go
+# a ping utility in go
+you know, like the penguin. 
+
+
